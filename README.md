@@ -383,14 +383,6 @@ git pull
 uv pip install -e .
 ```
 
-## 🤝 貢獻
-
-歡迎提交 Issue 和 Pull Request！
-
-## 📄 授權
-
-本專案採用 MIT 授權條款。
-
 ## 🙏 致謝
 
 本專案基於 [instaloader](https://instaloader.github.io/) 套件開發，感謝 instaloader 團隊的優秀工作。
